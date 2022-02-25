@@ -10,4 +10,4 @@
 message1 = Greeting.create!(message: 'Hello bro')
 message2 = Greeting.create!(message: 'Hi bro')
 message3 = Greeting.create!(message: 'My bro')
-message4 = Greeting.create!(message: 'Oga bro')
+message4 = Greeting.create!(message: 'Hello bro')

@@ -15,6 +15,7 @@ gem 'sprockets-rails'
 gem 'pg', '~> 1.1'
 
 gem 'react-rails'
+gem 'rubocop'
 gem 'webpacker'
 
 gem 'ffi'
