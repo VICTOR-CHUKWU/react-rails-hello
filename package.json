@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "@babel/preset-react": "^7.16.7",
+    "@rails/webpacker": "5.4.3",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.1",
+    "react_ujs": "^2.6.1",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "reselect": "^4.1.5",
+    "webpack": "4.46.0",
+    "webpack-cli": "3.3.12"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "3"
+  },
+  "name": "react-hello",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "babel.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VICTOR-CHUKWU/react-rails-hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VICTOR-CHUKWU/react-rails-hello/issues"
+  },
+  "homepage": "https://github.com/VICTOR-CHUKWU/react-rails-hello#readme"
+}
